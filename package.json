@@ -1,0 +1,8 @@
+{
+    "name": "x264-osx64",
+    "version": "0.155.2893",
+    "description": "npm wrapper for x264 (osx64)",
+    "os": ["darwin"],
+    "cpu": ["x64"],
+    "main": "index.js"
+}
